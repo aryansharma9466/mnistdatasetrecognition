@@ -1,4 +1,4 @@
-#MNIST Digit Classification using LeNet-5
+# MNIST Digit Classification using LeNet-5
 This project implements the classic LeNet-5 Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset.
 
 Model: LeNet-5, a pioneering CNN architecture.
